@@ -1,0 +1,5 @@
+@ Email Filtering Time
+list_comprehension,0.429170875
+loop,0.46473225
+filter,0.831797708
+map,1.005835958

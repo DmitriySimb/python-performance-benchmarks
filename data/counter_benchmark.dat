@@ -1,0 +1,5 @@
+@ Counter Benchmark Time
+counter_count,0.0124112
+counter_top10,0.0146811
+manual_count,0.0207745
+manual_top10,0.0214604

@@ -1,0 +1,12 @@
+Email Filtering Benchmark
+Generated at: 2026-04-29 19:15:52
+----------------------------------------
+
+Calls: 1000000
+
+list_comprehension: 0.429170875s
+loop: 0.464732250s
+filter: 0.831797708s
+map: 1.005835958s
+
+Best method: list_comprehension

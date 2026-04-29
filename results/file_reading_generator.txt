@@ -1,0 +1,9 @@
+File Reading Benchmark
+Generated at: 2026-04-29 19:15:56
+----------------------------------------
+
+Mode: generator
+File: data/ratings.csv
+
+Peak Memory Usage = 0.016 GB
+User Mode Time + System Mode Time = 1.10s

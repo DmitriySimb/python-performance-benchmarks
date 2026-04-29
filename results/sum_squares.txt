@@ -1,0 +1,11 @@
+Sum of Squares Benchmark
+Generated at: 2026-04-29 19:15:52
+----------------------------------------
+
+Calls: 1000000
+Number: 5
+
+loop: 0.117789375s
+reduce: 0.232480459s
+
+Best method: loop

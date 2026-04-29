@@ -1,0 +1,10 @@
+Counter Benchmark
+Generated at: 2026-04-29 19:15:52
+----------------------------------------
+
+Data size: 1000000
+
+counter_count: 0.0124112s
+counter_top10: 0.0146811s
+manual_count: 0.0207745s
+manual_top10: 0.0214604s
