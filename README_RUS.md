@@ -161,7 +161,7 @@ sh scripts/visualize.sh file_reading.dat
 
 Ниже представлены результаты измерений.
 
-## Фильтрация и email
+## Email Filtering
 
 ![Email Filtering](screenshots/email_filtering.png)
 
@@ -191,7 +191,7 @@ sh scripts/visualize.sh file_reading.dat
 
 ---
 
-## Counter Benchmark
+## File Reading
 
 ![File Reading](screenshots/file_reading.png)
 
@@ -205,7 +205,7 @@ sh scripts/visualize.sh file_reading.dat
 
 ---
 
-## Сумма квадратов
+## Sum of Squares
 
 ![Sum of Squares](screenshots/sum_squares.png)
 

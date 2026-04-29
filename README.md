@@ -188,7 +188,7 @@ Reason: built-in structures are optimized at the Python/C level.
 
 ---
 
-## Counter Benchmark
+## File Reading
 
 ![File Reading](screenshots/file_reading.png)
 
